@@ -1,0 +1,5 @@
+{{ if ne .chezmoi.os "windows" }}
+Documents
+AppData
+run_after_LinkPowerShellProfiles.ps1
+{{ end }}
