@@ -1,0 +1,17 @@
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files (if any temporary configs are created)
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*~
